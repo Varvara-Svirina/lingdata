@@ -999,5 +999,5 @@
 <word pos="DET" lemma="allur" />alls</word>
 <word pos="NOUN" lemma="kyn" />kyns</word>
 
-?????: ^([^\n\t]+)\t([^\n\t]+)\t([^\n\t]+)
-??????: <word pos="\3" lemma="\2" />\1</word>
+поиск: ^([^\n\t]+)\t([^\n\t]+)\t([^\n\t]+)
+замена: <word pos="\3" lemma="\2" />\1</word>
